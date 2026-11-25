@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SPACE Automotive</string>
+    <string name="brand_mark">SPACE.</string>
+    <string name="menu_label">MENU</string>
+    <string name="hero_kicker">01 / SPACE ONE</string>
+    <string name="hero_eyebrow">BEYOND THE LIMIT · ATELIER EDITION</string>
+    <string name="hero_headline">THE FUTURE OF PERFORMANCE</string>
+    <string name="hero_subtitle">Beyond the limit. Engineering the extraordinary — a new definition of automotive excellence.</string>
+    <string name="hero_cta">EXPLORE THE MACHINE</string>
+    <string name="vision_kicker">02 / THE VISION</string>
+    <string name="vision_headline">DESIGNED TO DEFY EXPECTATIONS.</string>
+    <string name="vision_subtitle">A new philosophy of design, power, and precision.</string>
+    <string name="vision_philosophy">Born at the intersection of aerospace aerodynamics and nocturnal craftsmanship, SPACE AUTOMOTIVE strips away excess to reveal pure kinetic intent. Every autoclave carbon surface, milled titanium joint, and laminar venturi channel is calibrated in silence — sculpted not merely to slice through the wind, but to command it with effortless composure.</string>
+    <string name="exterior_kicker">03 / EXTERIOR</string>
+    <string name="exterior_headline">SCULPTED BY VELOCITY.</string>
+    <string name="engineering_kicker">04 / ENGINEERING</string>
+    <string name="engineering_headline">POWER MEETS PRECISION.</string>
+    <string name="interior_kicker">05 / INTERIOR</string>
+    <string name="interior_headline">CRAFTED AROUND THE PILOT.</string>
+    <string name="experience_kicker">06 / EXPERIENCE</string>
+    <string name="experience_headline">DISCOVER EVERY DETAIL.</string>
+    <string name="experience_subtitle">Explore the exterior, interior, and engineering.</string>
+    <string name="specs_kicker">07 / SPECIFICATIONS</string>
+    <string name="specs_headline">TECHNICAL ARCHITECTURE.</string>
+    <string name="contact_kicker">08 / CONCIERGE</string>
+    <string name="contact_headline">THE NEXT ERA STARTS HERE.</string>
+    <string name="contact_subtitle">Experience something extraordinary.</string>
+    <string name="contact_cta">REQUEST AN EXCLUSIVE EXPERIENCE</string>
+    <string name="footer_copyright">SPACE AUTOMOTIVE © 2026</string>
+</resources>

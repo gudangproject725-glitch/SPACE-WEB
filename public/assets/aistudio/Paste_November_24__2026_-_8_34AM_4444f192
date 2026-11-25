@@ -1,0 +1,1343 @@
+# **MASTER CONTEXT ENGINEERING & PRODUCTION BLUEPRINT**
+
+## **SPACE — Premium Automotive Digital Experience**
+
+[Black Bugatti W16 Mistral Hypercar 4K & 5K Wallpaper | PixieWall](https://images.openai.com/static-rsc-4/ZY5QiZ48JdlYBHfhRpFrt2n8AAqWeS-wAd8e_oaGLpjyAHdiMkkYyFPt8NLdtnZfBR_vhP1ayTPSMhKWPNRyyMqFaTWV8FuD2U_Z4xkbGc9SpUFm-d8ErXCnuwCEjL7eguBviaqYp_8Yt21eGF7qwVdSXM4CHPfCoLL7SkqbXLM?purpose=inline)
+
+[Web Concept: Lamborghini Murciélago – "The V12 Manifesto" by Martin Milenkovski on Dribbble](https://images.openai.com/static-rsc-4/isn3a4yJ1GnOK1ivUCzaJfmMISKnXQmXAAIRU80deTgtn8L9hpMroN5gnWu2I913croLwrq0tiGIo-aFT7FkTik4cXLmI1QHfW_5ERgBaGmh6_cE-UTBCDITaG-cvGvIg4rog0gIQcXvsJ6rTE6bFGCzdFB0_-TmWl4u8r90Xik?purpose=inline)
+
+[Exclusive: a closer look at the £2.5m Aston Martin Valkyrie | Top Gear](https://images.openai.com/static-rsc-4/CXWvmJwAc0KeWbtuUsABIdHxdO8ezC8YO71pPkZiCs4Xl8yRZUB2GS3zEMN2Vxegcto6sppDdMgOJ7_ICSvF_9P1GHniv33GmrGDUyRCSDn8ocmuStyKPV-Psy9N1IneVp2mw-vmsgzn6dTwkNMstOzVmrSAHlG-euUKlAqTrTs?purpose=inline)
+
+17
+
+PROJECT MASTER BLUEPRINT
+
+ADVANCED
+
+REACT ECOSYSTEM
+
+# **SPACE.**
+
+**Beyond the Ordinary. Engineered for the Extraordinary.**
+
+Premium Automotive Website · Reference-Inspired Replica · Interactive Digital Experience
+
+Dokumen ini menjadi sumber kebenaran utama (*Single Source of Truth*) untuk membangun website SPACE dengan pendekatan yang terinspirasi dari referensi Dribbble Space Luxury Automotive.
+
+Targetnya bukan hanya meniru tampilan visual, tetapi merekonstruksi karakter desain, struktur informasi, pengalaman scrolling, komposisi visual, dan motion interaction dengan identitas brand SPACE sendiri.
+
+**Prinsip utama:** Reference Fidelity + Original Implementation + Production Quality.
+
+# **PART 01 — PROJECT FOUNDATION**
+
+## **1. Project Identity**
+
+| Parameter        | Spesifikasi                          |
+| ---------------- | ------------------------------------ |
+| Project name     | SPACE                                |
+| Project type     | Premium Automotive Website           |
+| Category         | Luxury / Hypercar / Automotive       |
+| Approach         | Reference-inspired replica           |
+| Design style     | Space Luxury, Futuristic, Editorial  |
+| Visual direction | Cinematic, Minimalist, High Contrast |
+| Frontend         | React + Vite                         |
+| Styling          | Tailwind CSS                         |
+| Animation        | GSAP + ScrollTrigger                 |
+| Smooth scroll    | Lenis                                |
+| 3D (optional)    | Three.js / React Three Fiber         |
+| Icon             | Lucide React                         |
+| Development      | VS Code + AI Coding Agent            |
+| Target           | Advanced                             |
+| Deployment       | Vercel                               |
+
+### **1.1 Project Vision**
+
+SPACE merupakan website showcase untuk sebuah brand automotive premium yang menggabungkan:
+
+- Automotive engineering.
+- Luxury design.
+- Futuristic technology.
+- Cinematic storytelling.
+- Interactive digital experience.
+
+Website harus memberikan kesan eksklusif sejak pengunjung membuka halaman pertama.
+
+### **1.2 Project Objectives**
+
+1. Membangun tampilan premium yang mendekati referensi.
+2. Menghadirkan pengalaman scrolling yang immersive.
+3. Menampilkan kendaraan sebagai objek utama.
+4. Menggabungkan typography, imagery, dan motion secara harmonis.
+5. Menghasilkan website responsive dengan performa optimal.
+6. Menyediakan source code yang terstruktur dan mudah dikembangkan.
+
+### **1.3 Scope & Boundaries**
+
+**Termasuk:**
+
+- Single-page automotive showcase.
+- Desktop dan mobile responsive.
+- Animated hero section.
+- Scroll-based storytelling.
+- Product visualization.
+- Technical specification.
+- Interactive gallery.
+- Navigation overlay.
+- Loading transition.
+
+**Tidak termasuk dalam MVP:**
+
+- Sistem login.
+- Database kendaraan.
+- CMS admin.
+- E-commerce.
+- Booking kendaraan sungguhan.
+- Backend API.
+
+Semua informasi kendaraan pada versi showcase merupakan data demonstrasi, bukan klaim spesifikasi kendaraan produksi nyata.
+
+# **PART 02 — CREATIVE DIRECTION**
+
+## **2. Art Direction**
+
+[Rimac’s Nevera is the Pinnacle of Hypercar Performance – duPont REGISTRY News](https://images.openai.com/static-rsc-4/j17hflcrcwRqwJlEQxHoggCpDdqdRKEeOc3uvpdRbN8hqUxD22X2152XTuq5hOupM0AlZTpfTKkJysq3XXxa1Dzn6NMQG8Jw3cCe0OeqmN4a_GtzGmptU9ia5RX80H2-hwaHxSscZuIFpVphNmKi6AvBFLrTaBEtwiuSdmdbbDs?purpose=inline)
+
+[#genesis #제네시스 #genesisblack #genesisg90black #g90 #genesiscars #innocean #southkorea #seoul #automotive #advertising #photography #locationphotographer #automotivephotographer #carphotographer… | Nigel Harniman](https://images.openai.com/static-rsc-4/HnNf0qlBDKiGZ6m7UE7GN5FD_o07h-teZc2nz5YubvBslFOJS6Tb2WKWxMh2xvKsGzWlTOjVCRctz2ywCIyBItOA92tayffI6t75Itmaa2uyXQdnwzyfD8IkSrhJnyfdWEeCsPHL0Ss8wRjwqJwoa2U_Sc3L4dWobJbzhIvXuC4?purpose=inline)
+
+[The Bentley Continental GT Speed is simply… epic | British GQ](https://images.openai.com/static-rsc-4/-EGkaHB7FRL9h9wP3kY7tTrpxSLblzYILEeH22JMxBuNDQwa59oYlDx3lRjNTiPzYkf9PuSa9gJcpidzcVL4kUmIgHeBHsQiBP9ENvcf3wsyNaRp4Ga4Qbs6XAiL5J0ZfEPx6jNqan3-bLR2VCdLZmyumK5nztdq-1xNoKaBbIE?purpose=inline)
+
+19
+
+### **2.1 Visual Personality**
+
+SPACE harus mempunyai karakter:
+
+| Karakter   | Implementasi                      |
+| ---------- | --------------------------------- |
+| Premium    | Komposisi visual eksklusif        |
+| Futuristic | Geometri, detail, dan lighting    |
+| Minimalist | Sedikit elemen, banyak whitespace |
+| Cinematic  | Hero imagery dan motion           |
+| Technical  | Data dan engineering detail       |
+| Editorial  | Tipografi berkarakter             |
+
+### **2.2 Design Keywords**
+
+`Luxury` · `Automotive` · `Cinematic` · `Futuristic` · `Dark Editorial` · `Precision` · `Minimalism`
+
+### **2.3 Moodboard Direction**
+
+[Striking Luxury Car Photos by Philipp Rupprecht | Daily design inspiration for creatives | Inspiration Grid](https://images.openai.com/static-rsc-4/ael5KCpjVHTwT3V0uDuXrERCxH5sw5Ef3q9VToZE-dyje9Q2jgFzoZneKMOLnTuQtTtY-bSB_4u9Wam6l1fyhua1TX_QSM1iMKtUoZvtUfyEKofVfxb5b0ud2O0iEfx24JwKS40dUxJ-gj0EO--3jX6V-lLyPKDentx3XsHK5O4?purpose=inline)
+
+**Dark automotive**
+
+Dominasi hitam dan pencahayaan dramatis.
+
+[フェラーリ、ブガッティを超える99台の少量生産のスーパースポーツがパガーニから誕生 | ENGINE (エンジン) |クルマ、時計、ファッション、男のライフスタイルメディア](https://images.openai.com/static-rsc-4/5sYXlAkiLn0dfD_WEOCP2XgmdwbdTotjjTS13JKJk4ff-WZRXcnvlB0zCLFMBeo7gz0_FmAUwtKD6sXWKRBp9QzpSYsZxIst2hMW_r8_lqCCuaanKMFEmHw0Rpr6qK_K3hJbyNPgJQvfpu5RWDyyy-2mE3sEbUIj1QKjah-9iwY?purpose=inline)
+
+**Luxury editorial**
+
+Visual premium dan ruang negatif.
+
+[Regera | Koenigsegg](https://images.openai.com/static-rsc-4/7t9N-yrwL2KPH3WnOSsosQ6anluiBI-n60K3ELjpNMOtc5nk9UeUkRz3lJzmiE1IHzajzElqhYeYpBWoV4ybHjY8p6aqdpsRI3BT5ZdiSx6cvmRgvVJA_DgD0QI7vR7gdFVkvtx61cUke1ylGA3vxJxN2qKXNJXNmymTQS-bC8o?purpose=inline)
+
+**Technical detail**
+
+Material, tekstur, dan presisi.
+
+[Self-driving Car UI - Interaction 02 by Jason Fallas on Dribbble](https://images.openai.com/static-rsc-4/OHRi8NxTZbwLYyyzVeTIJBKtaWq6Y5ltvc9MF9SgvuNqsMV5lP213A1UX5KnziLPORbcgFMNh62iVWrQmdsy1KuhuDZxFOShK_wetMb5-535a84DNFru6mHDzxCcXQMTk30GTq9s2AZqV0PmQ07eVpvSURms1QCwby_D3Mcidhw?purpose=inline)
+
+**Digital interface**
+
+Elemen interaktif modern.
+
+### **2.4 Color Direction**
+
+**Space Black**
+
+\#090909
+
+**Carbon**
+
+\#171717
+
+**Graphite**
+
+\#292929
+
+**Ivory**
+
+\#EAE6DF
+
+**Titanium**
+
+\#B7B0A5
+
+**Pure White**
+
+\#FFFFFF
+
+Palet utama. Aksen metalik dapat digunakan secara terbatas.
+
+Rekomendasi proporsi:
+
+- 65% dark surface.
+- 20% neutral / ivory.
+- 10% automotive imagery.
+- 5% accent.
+
+### **2.5 Typography**
+
+Rekomendasi font:
+
+| Penggunaan      | Font          |
+| --------------- | ------------- |
+| Hero headline   | Space Grotesk |
+| Section heading | Space Grotesk |
+| Body text       | Inter         |
+| Technical data  | IBM Plex Mono |
+| Micro-label     | IBM Plex Mono |
+
+Karakter tipografi:
+
+- Heading besar, uppercase.
+- Letter spacing terkontrol.
+- Body text pendek.
+- Technical label menggunakan monospace.
+- Maksimal tiga keluarga font.
+
+### **2.6 Design References**
+
+Gunakan referensi utama sebagai acuan komposisi dan interaksi:
+
+- [SPACE Luxury Automotive — Dribbble](https://dribbble.com/shots/27900496-Website-Design-Space-Luxury-Automotive?utm_source=chatgpt.com).
+- [Awwwards](https://www.awwwards.com/?utm_source=chatgpt.com) untuk standar pengalaman digital.
+- [Porsche](https://www.porsche.com/?utm_source=chatgpt.com) untuk pendekatan product storytelling.
+- [Lamborghini](https://www.lamborghini.com/?utm_source=chatgpt.com) untuk visual automotive premium.
+
+**Batasan reproduksi:** gunakan struktur dan prinsip desain sebagai referensi. Jangan mengambil source code, logo, atau aset berlisensi milik desainer tanpa izin.
+
+# **PART 03 — DESIGN SYSTEM**
+
+## **3. Global Design Tokens**
+
+Design token harus menjadi dasar konsistensi seluruh komponen.
+
+```
+:root {
+  /* Colors */
+  --space-black: #090909;
+  --space-carbon: #171717;
+  --space-graphite: #292929;
+  --space-ivory: #EAE6DF;
+  --space-titanium: #B7B0A5;
+  --space-white: #FFFFFF;
+
+  /* Typography */
+  --font-display: "Space Grotesk";
+  --font-body: "Inter";
+  --font-mono: "IBM Plex Mono";
+
+  /* Layout */
+  --container: 1440px;
+  --page-padding: clamp(20px, 5vw, 80px);
+
+  /* Motion */
+  --ease-premium: cubic-bezier(.76, 0, .24, 1);
+
+  /* Borders */
+  --border-subtle: rgba(255,255,255,.15);
+}
+```
+
+### **3.1 Spacing System**
+
+Gunakan sistem 4px:
+
+| Token | Value |
+| ----- | ----- |
+| XS    | 4px   |
+| SM    | 8px   |
+| MD    | 16px  |
+| LG    | 24px  |
+| XL    | 32px  |
+| 2XL   | 48px  |
+| 3XL   | 64px  |
+| 4XL   | 96px  |
+| 5XL   | 128px |
+
+### **3.2 Layout Grid**
+
+- Desktop: 12 columns.
+- Tablet: 8 columns.
+- Mobile: 4 columns.
+- Max content width: 1440px.
+- Main horizontal padding: 5vw.
+- Section vertical padding: 100–160px desktop.
+
+### **3.3 Component Styling**
+
+| Component     | Style                 |
+| ------------- | --------------------- |
+| Button        | Minimal, uppercase    |
+| Navigation    | Fixed / transparent   |
+| Card          | Image dominant        |
+| Section label | Monospace             |
+| Divider       | 1px subtle border     |
+| Gallery       | Full-bleed imagery    |
+| Specification | Editorial data layout |
+
+# **PART 04 — SITEMAP & UI/UX ARCHITECTURE**
+
+## **4. Website Information Architecture**
+
+Website menggunakan model single-page storytelling.
+
+**SPACE WEBSITE**
+
+Main Experience
+
+01
+
+**Hero**
+
+02
+
+**Vision**
+
+03
+
+**Exterior**
+
+04
+
+**Engineering**
+
+05
+
+**Interior**
+
+06
+
+**Experience**
+
+07
+
+**Specifications**
+
+08
+
+**Contact**
+
+## **4.1 Section-by-Section Blueprint**
+
+**01 — HERO SECTION**
+
+Critical
+
+[Rimac’s Nevera is the Pinnacle of Hypercar Performance – duPont REGISTRY News](https://images.openai.com/static-rsc-4/j17hflcrcwRqwJlEQxHoggCpDdqdRKEeOc3uvpdRbN8hqUxD22X2152XTuq5hOupM0AlZTpfTKkJysq3XXxa1Dzn6NMQG8Jw3cCe0OeqmN4a_GtzGmptU9ia5RX80H2-hwaHxSscZuIFpVphNmKi6AvBFLrTaBEtwiuSdmdbbDs?purpose=inline)
+
+[news.dupontregistry.com](https://news.dupontregistry.com/blogs/sponsored/rimac-nevera-grand-touring-automobiles?utm_source=chatgpt.com)
+
+Tujuan: menciptakan kesan pertama yang kuat.
+
+- Logo SPACE.
+- Minimal navigation.
+- Fullscreen vehicle visual.
+- Headline: BEYOND THE LIMIT.
+- Subtitle.
+- CTA Explore.
+- Scroll indicator.
+
+**02 — THE VISION**
+
+[Bugatti design boss: Tourbillon designed to be timeless](https://images.openai.com/static-rsc-4/sHg2xpbqRV7oktDo-q099Pa2zfBhX6JvQxBK_CfjSFyNe2COJ0NdlVsWizaIJ3sGX4INn_qyW2t4egG-M9pxKCyYqlYij1tQGmc2-8ZTNJF8mL8ELBglKsLRQaezkZ046ZUMsDq4rSwVPGf4dDI-Ur7aNrSTGXuJyF033nc-3Ns?purpose=inline)
+
+[motorauthority.com](https://www.motorauthority.com/news/1143932_bugatti-design-boss-tourbillon-designed-to-be-timeless?utm_source=chatgpt.com)
+
+Tujuan: memperkenalkan filosofi brand.
+
+- Large editorial heading.
+- Brand statement.
+- Vehicle visual.
+- Reveal on scroll.
+
+**03 — EXTERIOR DESIGN**
+
+[New Koenigsegg Alert! This is the €3.8m, 1,603bhp Sadair's Spear, built to smash records | Top Gear](https://images.openai.com/static-rsc-4/M1_ZdPb6ce0omMNvnbb7MWoNDiqgfJ8bLx_-zX82_rlzCbWra_kqpY4vcY8BMkuzep65ag0vJmwWUpw6kgjFN6f70Wjubnl_HqIeCtKKhw3D43fd0DvbrGBm7FepcAGI8aeg_xWWLFo_egyCFdRqRqvMOTu0ER5M6lzRL8cZJ9o?purpose=inline)
+
+[topgear.com](https://www.topgear.com/car-news/first-look/new-koenigsegg-alert-eu38m-1603bhp-sadairs-spear-built-smash-records?utm_source=chatgpt.com)
+
+Tujuan: menampilkan desain eksterior.
+
+- Full-width photography.
+- Detail aerodynamic.
+- Parallax image.
+- Horizontal image gallery.
+
+**04 — ENGINEERING**
+
+[Flat out in the Pagani Huayra BC | Top Gear](https://images.openai.com/static-rsc-4/EcL8oJR1yanWzFKYYjJ8u2QsF4UHkw36BKQxk7q5eSnqS4jpEUrxhgcMWG6iyIr0b311fcFMD9mtRD2ewEp0KuY_R7MWeMIR7Sy8AHZqbaFeGoljy2UcndJnox2FQ2o3cS7XNGeC7jwKvt5dV9PThLKSoAnvJacZYRc94kVY3EM?purpose=inline)
+
+[topgear.com](https://www.topgear.com/car-news/pioneers/flat-out-pagani-huayra-bc?utm_source=chatgpt.com)
+
+Tujuan: menunjukkan teknologi dan performa.
+
+- Engine visualization.
+- Performance metrics.
+- Technical storytelling.
+- Number counter animation.
+
+**05 — INTERIOR**
+
+[Czinger正式公佈21C超級跑車規格數據 將會有兩款車型，限量80台(內有影片) - CarStuff 人車事](https://images.openai.com/static-rsc-4/2ChBwMJBOCAX_bZ9DbA72ail000e8EtPwBiywR0yXaZ2GbrwDs6vRVtDiMeO4nd6aeY6DR-mEI0YeHMeZAjhVlScLMFc0gX4evkizIER7YhWvHP4Sa10nRxEpSvT02gmFRZ9x2AL5-7OXmLU-h7d3SGLGE_XO3KOfSWv5V7OZ54?purpose=inline)
+
+[carstuff.com.tw](https://www.carstuff.com.tw/car-news/item/31056-czinger-21c-80.html?utm_source=chatgpt.com)
+
+Tujuan: menampilkan pengalaman berkendara.
+
+- Interior showcase.
+- Detail material.
+- Image transition.
+
+**06 — EXPERIENCE**
+
+[Striking Luxury Car Photos by Philipp Rupprecht | Daily design inspiration for creatives | Inspiration Grid](https://images.openai.com/static-rsc-4/BHhFrvJ1HrYiKRx7SkOxq6p9hfH0cqlxmcKXEGkefp5KL920upgPdnpXs750dhSHr3s8h9khHu-SVBXGup1s6R3YcvHjLkWCU1CZ1vtIFVKAqVUFuEByLmhbgMvKz_BCQkpM_ETlv-cPerIsbN6Vct1vOuKsuvTVJASjJm-7g0o?purpose=inline)
+
+[theinspirationgrid.com](https://theinspirationgrid.com/striking-luxury-car-photos-by-philipp-rupprecht/?utm_source=chatgpt.com)
+
+Tujuan: memberikan pengalaman eksplorasi kendaraan.
+
+- Interactive slider.
+- Image transitions.
+- Gallery navigation.
+
+**07 — SPECIFICATIONS**
+
+[Sanguigno - Automotive Website Design by 𝖕𝖍𝖆𝖕 🐰 for White Label on Dribbble](https://images.openai.com/static-rsc-4/q8fVUJNkOaAD5y6ulMyB29U4VMfr6TxGWdn5RpCE0WRdQ7lAHVbCVD5YOrb7UZ3WUz5f6HnFu9sE0Ij17QHtyKm3EgfmK64ex5P_szXic3SpAXHJsCd9_sygLtwfIsWUoIuLYcvpfadu9thUeHZMwynbtGTf_ORRVzBm-7TAju0?purpose=inline)
+
+[dribbble.com](https://dribbble.com/shots/7202336-Sanguigno-Automotive-Website-Design?utm_source=chatgpt.com)
+
+Tujuan: menampilkan data kendaraan.
+
+- Power.
+- Acceleration.
+- Top speed.
+- Drivetrain.
+- Dimensions.
+
+**08 — CONTACT / FOOTER**
+
+[McLaren Senna Project :: Behance](https://images.openai.com/static-rsc-4/3MKMH5Lh3a4dEXipYTKCZ3FFnZvfSulgJGdIDN57OuJQR_H-ShPNrwM847O_xQ-h_7ak53vYj8eyolh-bJRxHF_wQZNkYYJsKrz2-OAeMnimawsqtlQJkdXfd8I4G31bNM_44KOQMc6G4ZZ3G03CQ7v4Ao6zw_oc0ccFBCK4WRU?purpose=inline)
+
+[behance.net](https://www.behance.net/gallery/94411193/McLaren-Senna-Project?utm_source=chatgpt.com)
+
+Tujuan: menutup pengalaman dan memberikan CTA.
+
+- Exclusive inquiry.
+- Contact information.
+- Social links.
+- Footer identity.
+
+## **4.2 Navigation Design**
+
+Navigation harus minimal:
+
+```
+SPACE.                       MENU
+
+VISION
+DESIGN
+ENGINEERING
+EXPERIENCE
+SPECIFICATIONS
+
+CONTACT
+```
+
+Interaksi:
+
+- Fixed navigation.
+- Transparan di hero.
+- Background berubah saat scrolling.
+- Menu overlay fullscreen.
+- Active section indicator.
+- Smooth scroll ketika menu dipilih.
+
+## **4.3 User Journey**
+
+```
+OPEN WEBSITE
+     |
+     v
+LOADING EXPERIENCE
+     |
+     v
+HERO INTRODUCTION
+     |
+     v
+EXPLORE THE VISION
+     |
+     v
+EXTERIOR SHOWCASE
+     |
+     v
+ENGINEERING STORY
+     |
+     v
+INTERIOR EXPERIENCE
+     |
+     v
+INTERACTIVE GALLERY
+     |
+     v
+SPECIFICATIONS
+     |
+     v
+CONTACT / CTA
+```
+
+Target UX: pengunjung dapat memahami brand, mengeksplorasi kendaraan, dan mencapai CTA tanpa navigasi yang membingungkan.
+
+# **PART 05 — ASSET PRODUCTION**
+
+## **5. Asset Strategy**
+
+Kualitas gambar dan video akan menentukan sebagian besar kualitas visual website ini.
+
+### **5.1 Asset Requirements**
+
+| Asset               | Kebutuhan  | Format      |
+| ------------------- | ---------- | ----------- |
+| Hero video          | 1          | MP4 / WebM  |
+| Hero poster         | 1          | WebP / AVIF |
+| Exterior imagery    | 4–6        | WebP / AVIF |
+| Interior imagery    | 3–4        | WebP / AVIF |
+| Engineering imagery | 3–4        | WebP / AVIF |
+| Gallery imagery     | 4–6        | WebP / AVIF |
+| Logo                | 1          | SVG         |
+| Icons               | Secukupnya | SVG         |
+
+### **5.2 Visual Production Direction**
+
+[Nejdražší auto světa! Za černou krásku dal nový majitel 430 milionů | TN.cz](https://images.openai.com/static-rsc-4/nZg3SOa30iBHF2QzaWia_tRibtNnfF-Y-Ix7zUHy6FgEXSx4y_lACou9ggL1zL0dJ0F1P0oTabAqKxDhJDteOpV9lNxUsNrY4owfT93SNntlsbEzqW0oT7UDNAZegJflZ4FCk5TYZGWndZZza7lgaFS8oU7WbPRDPMmvAWcspyI?purpose=inline)
+
+**Hero visual**
+
+Front three-quarter angle.
+
+[Spyros Panopoulos Chaos Coupé | Uncrate](https://images.openai.com/static-rsc-4/pGGRcGuVLClXoW4jxPdOz12etZPD6A9XSYSN4c4P5bwEiMb--EMIOjWGyPwdOyx_sx5enjSfxFl-hE0GKS3PdymKw6enKtfl9nrTpiYqZllhN39KLkUhnk7iKuadbAszvBYSBQ4DxuxxaCKU2a7urvUGMVs4lajbaf1R6GNB_Rk?purpose=inline)
+
+**Exterior**
+
+Full side profile.
+
+[Philip Ireland](https://images.openai.com/static-rsc-4/ZroEU1vi0t4K1I1bNgBRpbHA3omYJ0yyd8vftvbhWqpF2HztGXbWlKnJis0fsvydWuhH5LKWBmQA2lD4CuoCa_O9QBCzFePKhqrS8OX8ZbRcFlkXPxHFu35oFdrXr-2ee66pxEjyJydzH5qXxcePWgyP4E8RjpRc7jCzJLycXDw?purpose=inline)
+
+**Interior**
+
+Cockpit and material.
+
+[Pagani Huayra 70 Derecho Premieres at 2026 Goodwood Festival of Speed With No Top and 7-Speed Manual - autoevolution](https://images.openai.com/static-rsc-4/juGDUcv9bVfMnOmxirjAgH2XrJ8zbZKn-nktOa8vrys5kI8Qc08JZ2UzuP3M5QRk7c9hmHyJBDmUmseYYXnO93uD93YpBSVfBpU8h_g9QphUqL5AFOk4SA7O1ySHJ6JDihR1IcGpwYaSMYgKxl2qR5QvJi-XODj7bCfle2tw_7Q?purpose=inline)
+
+**Engineering**
+
+Mechanical details.
+
+### **5.3 Asset Folder Structure**
+
+```
+public/
+└── assets/
+    ├── images/
+    │   ├── hero/
+    │   ├── exterior/
+    │   ├── interior/
+    │   ├── engineering/
+    │   └── gallery/
+    ├── videos/
+    │   ├── hero.mp4
+    │   └── scroll-sequence/
+    ├── models/
+    │   └── vehicle.glb
+    ├── fonts/
+    └── icons/
+```
+
+### **5.4 Asset Quality Standards**
+
+- Hero image: minimal 1920 × 1080.
+- Desktop gallery: 1600px wide or more.
+- Mobile image: dedicated crop.
+- Image format: AVIF / WebP.
+- Video: H.264 MP4 atau WebM.
+- Hero video harus memiliki poster fallback.
+- Lazy loading untuk gambar non-critical.
+- Jangan menggunakan gambar yang tidak konsisten secara warna atau jenis kendaraan.
+
+### **5.5 AI Asset Prompt**
+
+Gunakan prompt berikut untuk membuat aset visual yang konsisten:
+
+```
+Create a premium automotive campaign photograph
+for SPACE, a futuristic luxury hypercar brand.
+
+SUBJECT:
+A futuristic black hypercar with sculptural
+aerodynamic bodywork, aggressive proportions,
+and sophisticated carbon fiber details.
+
+ART DIRECTION:
+High-end luxury automotive advertising,
+cinematic dark studio environment,
+dramatic controlled lighting,
+subtle reflections, deep shadows.
+
+CAMERA:
+Professional automotive photography,
+three-quarter front perspective,
+wide cinematic composition.
+
+COLOR:
+Black, graphite, titanium and subtle silver.
+
+QUALITY:
+Photorealistic, ultra-detailed,
+premium commercial campaign quality.
+
+COMPOSITION:
+Vehicle is the primary visual subject.
+Clean negative space for website typography.
+No watermark, no random text, no logos.
+```
+
+Penting: pertahankan desain mobil yang sama di seluruh gambar. Gunakan gambar utama sebagai visual reference ketika membuat variasi gambar berikutnya.
+
+# **PART 06 — MOTION & INTERACTION SPECIFICATION**
+
+## **6. Motion Design Philosophy**
+
+Motion menjadi elemen penting dalam proyek SPACE. Namun, animasi tidak boleh mengganggu keterbacaan konten.
+
+Prinsip motion:
+
+1. Smooth — pergerakan tidak patah-patah.
+2. Cinematic — transisi memiliki ritme visual.
+3. Purposeful — setiap animasi memiliki tujuan.
+4. Responsive — animasi disesuaikan dengan perangkat.
+5. Performance-aware — tidak mengorbankan performa.
+
+## **6.1 Motion Library**
+
+| Library           | Penggunaan                      |
+| ----------------- | ------------------------------- |
+| GSAP              | Timeline animation              |
+| ScrollTrigger     | Scroll-based animation          |
+| Lenis             | Smooth scrolling                |
+| Framer Motion     | UI micro-interaction (opsional) |
+| React Three Fiber | 3D interaction (opsional)       |
+
+Untuk MVP, prioritaskan GSAP, ScrollTrigger, dan Lenis. Hindari menggunakan banyak animation engine untuk satu elemen yang sama.
+
+## **6.2 Motion Specification per Section**
+
+| Section        | Motion                | Trigger      |
+| -------------- | --------------------- | ------------ |
+| Loader         | Logo reveal           | Page load    |
+| Hero           | Text reveal           | Initial load |
+| Hero           | Vehicle scale / fade  | Initial load |
+| Navigation     | Background transition | Scroll       |
+| Vision         | Text reveal           | Scroll       |
+| Exterior       | Image parallax        | Scroll       |
+| Engineering    | Number counter        | Viewport     |
+| Interior       | Image clip reveal     | Scroll       |
+| Experience     | Horizontal slider     | Drag / click |
+| Specifications | Stagger reveal        | Scroll       |
+| Footer         | Text reveal           | Scroll       |
+
+## **6.3 Hero Animation Timeline**
+
+## **SPACE — Opening Sequence**
+
+1. **00.00 – 00.80s | Loading**
+
+   [SPACE Film & VFX | LinkedIn](https://images.openai.com/static-rsc-4/JtJd5YqXxxj9z23WCqPPh-tZjC9gXwB_lFFqp_qMvYynoaByv3spXuhLpjSyIiP8UL_JjGZih-S_WuldaAB8n86_GblIAoTNCQdqqSmVKZmDNdExWv0Fb8DHXTAnY3r_tgaAvGgEECV9AVMlaF3E7WGBcxDszFMHkzCW5vsSCBY?purpose=inline)
+
+   [uk.linkedin.com](https://uk.linkedin.com/company/wearespace?utm_source=chatgpt.com)
+
+   Logo SPACE muncul di tengah layar.
+2. **00.80 – 01.60s | Background Reveal**
+
+   [Koenigsegg Jesko Absolut CGI :: Behance](https://images.openai.com/static-rsc-4/JTMdSmU9OmFXdmcvuOnQhAnV0C1eNNbOPJOPyuu5-ZyEqufdkk-8PjevEwy2SK3uv1kVKja4L_Mj0UflgnZAj0vPHaPZOCFqyOS_nF0a1XUiuzTlcaKcKuveSLBvrXEeRvv3gsdKzZ6mMDmfx-4wdNiWZuuNZXBZaNWYJ-xtedk?purpose=inline)
+
+   [behance.net](https://www.behance.net/gallery/100874261/Koenigsegg-Jesko-Absolut-CGI?utm_source=chatgpt.com)
+
+   Background dan kendaraan muncul secara perlahan.
+3. **01.60 – 02.40s | Headline Reveal**
+
+   [Minimal luxury car website :: Behance](https://images.openai.com/static-rsc-4/HJYv9fZyHITrshn9-kEBJ4R-VQ9GcxC7WbeLh9vNSNiXiAEq2oPapH9Uo_twBaQJqiV2HF3s6D8u_q7D_zBPq2fzm9Gy4AatlPZ-InApOaishSLSPXULbEm2Y9-GFQm_TmNprF9_C5BwM8n2O-X3Y-iYOCoOLPZirUT3daDp-qI?purpose=inline)
+
+   [behance.net](https://www.behance.net/gallery/94293843/Minimal-luxury-car-website?utm_source=chatgpt.com)
+
+   Headline masuk menggunakan clip-path reveal.
+4. **02.40 – 03.20s | CTA Reveal**
+
+   [Luxury Car Collection Website Concept by Bellusive. on Dribbble](https://images.openai.com/static-rsc-4/udGvRLsLZ9N320qGoQMOvCv8Dt2aBN1TrSp7QU6RbKDTPBlyJlMtofJYW9QaXisgUXrvh2u-53gT38mmMpYmN7X2xHEhiG_9GNVvz_oKV7CjXKc5dTLu_jBON9LG43Dv-9eSgnrULRskw9NI02Ds0ZqnxJ6PUyPbhzpUy2Ikfo8?purpose=inline)
+
+   [dribbble.com](https://dribbble.com/shots/21806997-Luxury-Car-Collection-Website-Concept?utm_source=chatgpt.com)
+
+   Navigasi dan CTA muncul.
+
+Timeline ilustratif. Durasi dapat disesuaikan setelah pengujian visual.
+
+## **6.4 Scroll Interaction**
+
+Contoh perilaku yang diharapkan:
+
+- Hero: image scale berubah secara perlahan.
+- Vision: heading masuk dari bawah.
+- Exterior: image menggunakan parallax.
+- Engineering: angka bergerak dari nilai awal ke nilai akhir.
+- Interior: gambar terbuka menggunakan clip-path.
+- Gallery: horizontal slider dengan drag interaction.
+- Specifications: data masuk dengan stagger.
+
+## **6.5 Motion Code Standard**
+
+Contoh implementasi GSAP dalam React:
+
+```
+import { useLayoutEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
+
+export default function VisionSection() {
+  const sectionRef = useRef(null);
+
+  useLayoutEffect(() => {
+    const ctx = gsap.context(() => {
+      gsap.from(".vision-title", {
+        y: 80,
+        opacity: 0,
+        duration: 1,
+        ease: "power3.out",
+        scrollTrigger: {
+          trigger: sectionRef.current,
+          start: "top 75%",
+          once: true,
+        },
+      });
+    }, sectionRef);
+
+    return () => ctx.revert();
+  }, []);
+
+  return (
+    <section ref={sectionRef}>
+      <h2 className="vision-title">
+        BEYOND THE LIMIT.
+      </h2>
+    </section>
+  );
+}
+```
+
+Standar implementasi:
+
+- Gunakan `gsap.context()` untuk scope animasi.
+- Bersihkan animasi ketika komponen unmount.
+- Hindari membuat ScrollTrigger berulang tanpa cleanup.
+- Gunakan `transform` dan `opacity` jika memungkinkan.
+- Hormati `prefers-reduced-motion`.
+- Jangan memaksa smooth scroll pada pengguna yang memilih reduced motion.
+
+# **PART 07 — TECHNICAL ARCHITECTURE**
+
+## **7. Frontend Architecture**
+
+**SPACE — React Application**
+
+**Presentation Layer**
+
+Sections & UI Components
+
+**Interaction Layer**
+
+GSAP & ScrollTrigger
+
+**Styling Layer**
+
+Tailwind & CSS Tokens
+
+**Asset Layer**
+
+Images, Video & Fonts
+
+**Browser Rendering & Optimization**
+
+### **7.1 Recommended Stack**
+
+| Technology   | Version / Policy   |
+| ------------ | ------------------ |
+| React        | Latest stable      |
+| Vite         | Latest stable      |
+| JavaScript   | ES Modules         |
+| Tailwind CSS | v4 preferred       |
+| GSAP         | Latest stable      |
+| Lenis        | Latest stable      |
+| Lucide React | Latest stable      |
+| React Router | Not needed for MVP |
+| Three.js     | Optional           |
+
+Gunakan dependency versi stabil yang kompatibel pada saat instalasi. Simpan versi aktual dalam `package-lock.json`.
+
+### **7.2 Project Directory Structure**
+
+Struktur yang direkomendasikan:
+
+```
+space-automotive/
+│
+├── public/
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── videos/
+│   │   ├── fonts/
+│   │   └── models/
+│   └── favicon.svg
+│
+├── src/
+│   ├── app/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   │
+│   ├── components/
+│   │   ├── common/
+│   │   │   ├── Button.jsx
+│   │   │   ├── Container.jsx
+│   │   │   ├── SectionLabel.jsx
+│   │   │   └── CustomCursor.jsx
+│   │   │
+│   │   ├── navigation/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── MenuOverlay.jsx
+│   │   │
+│   │   └── motion/
+│   │       ├── PageLoader.jsx
+│   │       ├── TextReveal.jsx
+│   │       └── ImageReveal.jsx
+│   │
+│   ├── sections/
+│   │   ├── Hero.jsx
+│   │   ├── Vision.jsx
+│   │   ├── Exterior.jsx
+│   │   ├── Engineering.jsx
+│   │   ├── Interior.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Specifications.jsx
+│   │   └── Contact.jsx
+│   │
+│   ├── hooks/
+│   │   ├── useLenis.js
+│   │   ├── useMediaQuery.js
+│   │   └── useReducedMotion.js
+│   │
+│   ├── data/
+│   │   ├── navigation.js
+│   │   ├── vehicle.js
+│   │   └── gallery.js
+│   │
+│   ├── animations/
+│   │   ├── heroAnimation.js
+│   │   ├── scrollAnimations.js
+│   │   └── animationConfig.js
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── tokens.css
+│   │   └── animations.css
+│   │
+│   └── assets/
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── index.html
+└── README.md
+```
+
+### **7.3 Component Responsibility**
+
+| Component      | Responsibility           |
+| -------------- | ------------------------ |
+| App            | Root application         |
+| Navbar         | Main navigation          |
+| MenuOverlay    | Fullscreen navigation    |
+| PageLoader     | Initial loading          |
+| Hero           | Opening experience       |
+| Vision         | Brand storytelling       |
+| Exterior       | Exterior showcase        |
+| Engineering    | Performance storytelling |
+| Interior       | Cabin showcase           |
+| Experience     | Interactive gallery      |
+| Specifications | Technical data           |
+| Contact        | CTA and footer           |
+
+### **7.4 Data-Driven Architecture**
+
+Pisahkan data kendaraan dari komponen visual.
+
+Contoh `src/data/vehicle.js`:
+
+```
+export const vehicle = {
+  name: "SPACE ONE",
+  tagline: "Beyond The Limit",
+
+  performance: {
+    power: "1,000 HP",
+    acceleration: "2.5 SEC",
+    topSpeed: "350+ KM/H",
+  },
+
+  specifications: [
+    {
+      label: "Powertrain",
+      value: "Electric Performance",
+    },
+    {
+      label: "Drivetrain",
+      value: "AWD",
+    },
+    {
+      label: "Body",
+      value: "Carbon Composite",
+    },
+  ],
+};
+```
+
+Angka di atas merupakan data konseptual untuk desain demo, bukan spesifikasi produk nyata.
+
+# **PART 08 — UI/UX IMPLEMENTATION BLUEPRINT**
+
+## **8. Responsive Design**
+
+Website harus dirancang dari desktop hingga mobile, bukan sekadar mengecilkan layout desktop.
+
+| Device  | Breakpoint acuan | Prioritas        |
+| ------- | ---------------- | ---------------- |
+| Mobile  | 360–767px        | Touch experience |
+| Tablet  | 768–1023px       | Adapted layout   |
+| Laptop  | 1024–1439px      | Main layout      |
+| Desktop | 1440px+          | Full experience  |
+
+### **8.1 Desktop Experience**
+
+- Full-width imagery.
+- Large typography.
+- Horizontal content alignment.
+- Rich parallax.
+- Fixed navigation.
+- Cinematic transitions.
+
+### **8.2 Mobile Experience**
+
+- Simplified navigation.
+- Smaller headline.
+- Optimized imagery.
+- Reduced motion complexity.
+- Swipe-based gallery.
+- No hover-dependent interaction.
+- Touch-friendly CTA.
+
+### **8.3 Accessibility Requirements**
+
+- Semantic HTML.
+- Keyboard navigation.
+- Visible focus states.
+- Alt text untuk gambar informatif.
+- Kontras teks memadai.
+- Reduced motion support.
+- Video dengan fallback.
+- Jangan mengunci scroll pengguna secara permanen.
+
+# **PART 09 — PERFORMANCE & QUALITY ENGINEERING**
+
+## **9. Performance Target**
+
+Website premium tidak boleh hanya bagus secara visual. Website juga harus responsif dan cepat.
+
+**Target Lighthouse**
+
+# **90+**
+
+Performance
+
+# **95+**
+
+Accessibility
+
+# **95+**
+
+Best Practices
+
+# **95+**
+
+SEO
+
+Target aspiratif untuk pengujian production, bukan hasil yang sudah dicapai.
+
+### **9.1 Optimization Checklist**
+
+- Convert image ke WebP / AVIF.
+- Compress video.
+- Gunakan video poster.
+- Lazy load gambar non-critical.
+- Preload font utama.
+- Hindari layout shift.
+- Batasi animasi berat.
+- Hindari penggunaan terlalu banyak 3D objects.
+- Test pada perangkat mobile.
+- Gunakan `prefers-reduced-motion`.
+- Jalankan Lighthouse.
+- Test koneksi lambat.
+
+### **9.2 Core Web Vitals**
+
+Target:
+
+- LCP ≤ 2.5 detik.
+- INP ≤ 200 ms.
+- CLS ≤ 0.1.
+
+Nilai ini adalah sasaran evaluasi, bukan jaminan performa.
+
+# **PART 10 — AI CODING AGENT IMPLEMENTATION PLAN**
+
+## **10. Development Methodology**
+
+Saya merekomendasikan pendekatan AI-assisted development berbasis milestone.
+
+Jangan meminta AI Coding Agent membangun seluruh proyek sekaligus. Setiap tahap harus memiliki input, output, dan acceptance criteria.
+
+## **SPACE Development Pipeline**
+
+1. **Project Initialization**
+
+   Setup React, Vite, Tailwind, dependencies, dan repository.
+
+   Foundation
+2. **Design System Implementation**
+
+   Typography, colors, grid, spacing, dan reusable components.
+3. **Static UI Development**
+
+   Bangun semua section tanpa animasi kompleks terlebih dahulu.
+4. **Asset Integration**
+
+   Integrasikan seluruh gambar, video, font, dan icon.
+5. **Motion Development**
+
+   Implementasikan GSAP, ScrollTrigger, dan Lenis.
+6. **Responsive Engineering**
+
+   Optimalkan desktop, tablet, dan mobile.
+7. **Quality Assurance**
+
+   Testing, performance audit, accessibility, dan bug fixing.
+8. **Production Deployment**
+
+   Build production dan deploy ke Vercel.
+
+## **10.1 Milestone & Deliverables**
+
+| Milestone | Output            | Definition of Done       |
+| --------- | ----------------- | ------------------------ |
+| M1        | React foundation  | Dev server berjalan      |
+| M2        | Design system     | Token dan komponen siap  |
+| M3        | Static website    | Semua section tersedia   |
+| M4        | Asset integration | Seluruh visual terpasang |
+| M5        | Motion system     | Animasi berfungsi        |
+| M6        | Responsive        | Semua breakpoint diuji   |
+| M7        | QA                | Tidak ada bug kritis     |
+| M8        | Deployment        | Website production live  |
+
+## **10.2 Coding Standards**
+
+AI Coding Agent wajib mengikuti aturan berikut:
+
+1. Gunakan functional components.
+2. Gunakan React Hooks sesuai kebutuhan.
+3. Hindari monolithic components.
+4. Pisahkan data, UI, dan animation logic.
+5. Gunakan semantic HTML.
+6. Jangan membuat animasi langsung dalam render.
+7. Gunakan cleanup pada setiap GSAP effect.
+8. Hindari penggunaan `!important` secara berlebihan.
+9. Jangan hardcode data yang seharusnya terpusat.
+10. Jangan menghapus fitur yang sudah berfungsi saat mengembangkan section lain.
+
+## **10.3 Testing Strategy**
+
+| Area          | Pengujian                   |
+| ------------- | --------------------------- |
+| UI            | Visual consistency          |
+| Navigation    | Semua link berfungsi        |
+| Motion        | Scroll trigger dan cleanup  |
+| Responsive    | Mobile, tablet, desktop     |
+| Assets        | Tidak ada gambar rusak      |
+| Performance   | Lighthouse                  |
+| Accessibility | Keyboard dan reduced motion |
+| Build         | Production build sukses     |
+
+# **PART 11 — MASTER CONTEXT PROMPT FOR AI CODING AGENT**
+
+Bagian ini adalah instruksi utama yang dapat kamu masukkan ke AI Coding Agent di VS Code (misalnya Cursor, Claude Code, GitHub Copilot, atau Codex).
+
+Prompt ini berfungsi sebagai *Project Constitution*: agent harus memahami identitas, desain, arsitektur, dan standar kualitas sebelum mulai melakukan perubahan kode.
+
+**SPACE — AI AGENT MASTER INSTRUCTION**
+
+Ready to use
+
+Simpan sebagai `SPACE_MASTER_CONTEXT.md` di root project.
+
+&#x20; Copy Master Agent Instruction
+
+## **11.1 Initial Project Setup**
+
+Buka VS Code terminal dan jalankan:
+
+```
+npm create vite@latest space-automotive -- --template react
+
+cd space-automotive
+
+npm install
+
+npm install gsap @gsap/react lenis lucide-react
+
+npm install tailwindcss @tailwindcss/vite
+
+npm install -D
+```
+
+Untuk Tailwind CSS v4, konfigurasi plugin Vite sesuai dokumentasi resminya.
+
+Referensi dokumentasi:
+
+- [React Documentation](https://react.dev/?utm_source=chatgpt.com)
+- [Vite Documentation](https://vite.dev/?utm_source=chatgpt.com)
+- [GSAP Documentation](https://gsap.com/docs/v3/?utm_source=chatgpt.com)
+- [Tailwind CSS](https://tailwindcss.com/docs?utm_source=chatgpt.com)
+- [Lenis Documentation](https://github.com/darkroomengineering/lenis?utm_source=chatgpt.com)
+
+Setelah konfigurasi awal:
+
+```
+npm run dev
+```
+
+## **11.2 Prompt Eksekusi Pertama**
+
+Setelah master context dimasukkan ke agent, berikan instruksi berikut:
+
+# TASK 01 — INITIALIZE SPACE AUTOMOTIVE
+
+Baca dan pahami seluruh isi `SPACE_MASTER_CONTEXT.md`.
+
+Bertindak sebagai Senior React Frontend Architect.
+
+Tugas pertama:
+
+1. Audit kondisi repository.
+2. Periksa package.json dan dependencies.
+3. Buat struktur folder berdasarkan master blueprint.
+4. Konfigurasikan React + Vite + Tailwind CSS v4.
+5. Siapkan global design tokens.
+6. Siapkan typography dan responsive layout system.
+7. Buat reusable Container, Button, SectionLabel, dan Navbar.
+8. Siapkan integrasi GSAP dan Lenis secara modular.
+9. Buat seluruh section dalam struktur React yang terorganisasi.
+10. Pastikan website dapat dijalankan dengan npm run dev.
+
+BATASAN:
+
+- Jangan langsung membuat animasi kompleks.
+- Jangan mengarang aset yang belum tersedia.
+- Gunakan placeholder visual yang konsisten apabila aset final belum tersedia.
+- Jangan membuat backend.
+- Jangan mengubah scope proyek.
+
+DELIVERABLE:
+
+- Struktur folder.
+- Konfigurasi dependencies.
+- Global CSS dan design tokens.
+- Reusable components.
+- Kerangka semua website sections.
+- README instalasi.
+- Hasil npm run build yang berhasil.
+
+Setelah selesai, berikan laporan implementasi dan tunggu persetujuan untuk TASK 02.
+
+# **PART 12 — PROJECT EVALUATION & ACCEPTANCE CRITERIA**
+
+## **12. Definition of Done**
+
+Sebelum menyatakan proyek selesai, lakukan evaluasi berdasarkan kriteria berikut.
+
+**SPACE Project QA Checklist**
+
+0/20 complete
+
+**Visual & Design**
+
+Visual identity SPACE konsisten.
+
+Semua section memiliki hierarchy yang jelas.
+
+Typography dan spacing sesuai design system.
+
+Automotive imagery memiliki konsistensi visual.
+
+**UI/UX**
+
+Navigasi berfungsi.
+
+CTA dapat digunakan.
+
+Gallery dapat dieksplorasi.
+
+Mobile layout nyaman digunakan.
+
+**Motion**
+
+Hero animation berjalan dengan baik.
+
+ScrollTrigger berjalan sesuai section.
+
+Tidak ada animasi yang menumpuk.
+
+Reduced motion tersedia.
+
+**Technical**
+
+Komponen React modular.
+
+Tidak ada broken asset.
+
+Tidak ada critical console errors.
+
+Production build berhasil.
+
+**Performance**
+
+Image optimization selesai.
+
+Video memiliki fallback.
+
+Core Web Vitals diuji.
+
+Lighthouse audit dilakukan.
+
+Reset checklist
+
+## **12.1 Final Portfolio Deliverables**
+
+Target akhir proyek:
+
+| Deliverable          | Format         |
+| -------------------- | -------------- |
+| Master Context       | Markdown       |
+| UI/UX Design         | Figma          |
+| Design System        | Figma / CSS    |
+| Frontend Source Code | React          |
+| Motion System        | GSAP           |
+| Asset Library        | Images / Video |
+| Production Website   | Vercel         |
+| Case Study           | Behance        |
+| Showcase             | Dribbble       |
+
+# **PART 13 — RECOMMENDED EXECUTION ROADMAP**
+
+Saya menyarankan urutan kerja berikut agar hasilnya tidak sekadar terlihat bagus, tetapi benar-benar memiliki kualitas production.
+
+## **SPACE Production Roadmap**
+
+Estimasi perencanaan pengerjaan, bukan deadline tetap.
+
+**01**
+
+**Context & Creative Direction**
+
+Finalisasi master context, moodboard, dan visual identity.
+
+1–2 hari
+
+**02**
+
+**UI/UX Design**
+
+Figma wireframe, high-fidelity desktop dan mobile.
+
+2–3 hari
+
+**03**
+
+**Asset Production**
+
+Fotografi, video, dan visual asset.
+
+1–3 hari
+
+**04**
+
+**React Development**
+
+Struktur aplikasi dan implementasi seluruh section.
+
+3–5 hari
+
+**05**
+
+**Motion Engineering**
+
+GSAP, Lenis, ScrollTrigger dan interaction.
+
+2–3 hari
+
+**06**
+
+**QA & Deployment**
+
+Testing, optimization, dan production release.
+
+1–2 hari
+
+**Estimasi total**
+
+# **10–18 hari**
+
+## **Rekomendasi saya: jangan mulai dari coding dahulu**
+
+Ada satu hal penting: untuk pendekatan replica, kita perlu memastikan komposisi visual referensi benar-benar terpetakan sebelum AI mulai menulis kode.
+
+Karena itu, tahapan berikutnya sebaiknya adalah **Stage 2 — Visual Reverse Engineering & Figma UI/UX Blueprint**.
+
+Output yang akan kita buat:
+
+1. Analisis visual referensi per section.
+2. Pemetaan layout desktop secara detail.
+3. Pemetaan layout mobile.
+4. High-fidelity UI design SPACE.
+5. Typography dan color system final.
+6. Komposisi gambar, posisi headline, dan CTA.
+7. Motion storyboard.
+8. Figma-ready design specification untuk AI Coding Agent.
+
+**Target akhir:** ketika website mulai dikembangkan di React, AI Coding Agent sudah memiliki panduan visual yang jelas sehingga tidak perlu menebak-nebak desain sendiri.
